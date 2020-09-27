@@ -40,6 +40,6 @@
     }
   },
   "lint-staged": {
-    "*.{js,ts,svelte}": "yarn run format"
+    "*.{svelte,js,ts}": "yarn run format"
   }
 }
